@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" >
+<img src="https://www.goodcore.co.uk/blog/wp-content/uploads/2019/08/coding-vs-programming-2-1400x600.jpg" >
 
 ### Hi there, I'm Daniel Carvalho. :wave: 
 
