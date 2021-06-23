@@ -1,4 +1,4 @@
-<img src="https://www.linkedin.com/in/daniel-carvalho-98a40859/" >
+<img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" >
 
 ### Hi there, I'm Daniel Carvalho. :wave: 
 
